@@ -70,7 +70,7 @@ input{
  border-radius: 7px;
 }
 .child{
-  position: fixed;
+  position: absolute;
   background-color: white;
   width: 250px;
   /* margin-left: 20px ; */
